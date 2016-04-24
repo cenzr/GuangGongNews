@@ -14,4 +14,7 @@
 #热点新闻
 #![image](https://github.com/cenzr/GuangGongNews/blob/master/图片展示/hots.png)
 #以下是官网的信息
-#![image](https://github.com/cenzr/GuangGongNews/blob/master/图片展示/hots1.png)
+#![image](https://github.com/cenzr/GuangGongNews/blob/master/图片展示/host1.png)
+#以下是查看已下载新闻的信息
+#![image](https://github.com/cenzr/GuangGongNews/blob/master/图片展示/download_search.png)
+#![image](https://github.com/cenzr/GuangGongNews/blob/master/图片展示/download_search_keyword.png)
